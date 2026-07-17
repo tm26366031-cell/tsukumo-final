@@ -1,0 +1,6 @@
+1. Upload every file in this folder to the ROOT of your GitHub repository.
+2. In Streamlit Community Cloud, set Python version to 3.11 in Advanced settings if available.
+3. Reboot the app after pushing the changes.
+4. Confirm app.py, model_unquant.tflite, labels.txt, requirements.txt, and runtime.txt are beside each other.
+
+The fake Pet Bottle 95% fallback was removed. If the model cannot load, the app now displays the real error instead.

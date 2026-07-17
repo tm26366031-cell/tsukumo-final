@@ -1,0 +1,7 @@
+0 ペットボトル/pet bottle
+1 紙/paper
+2 金属管/metal
+3 グラス/glass
+4 段ボール/cardboard
+5  粗大/bulky waste
+6 プラスチック/plastic

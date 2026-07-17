@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit-folium
+streamlit-option-menu
+streamlit-calendar
+opencv-python-headless
+numpy<2.0
+Pillow
+openpyxl
+tensorflow==2.16.2
